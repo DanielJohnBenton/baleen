@@ -23,11 +23,11 @@ $ cd baleen
 
 2. Create a virtualenv and install the dependencies
 
-    ```
+```
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-    ```
+```
 
 3. Add the `baleen` module to your `$PYTHONPATH` via the virtualenv.
 
