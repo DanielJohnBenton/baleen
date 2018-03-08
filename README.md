@@ -16,10 +16,10 @@ This quick start is intended to get you setup with Baleen in development mode (s
 
 1. Clone the repository
 
-    ```
+```
 $ git clone git@github.com:bbengfort/baleen.git
 $ cd baleen
-    ```
+```
 
 2. Create a virtualenv and install the dependencies
 
